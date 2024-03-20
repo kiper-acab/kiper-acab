@@ -16,7 +16,6 @@ Languages and Tools
 
 My social networks
 
---------------------
 <div id="badges">
     <a href="https://t.me/Raizolg" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/>
