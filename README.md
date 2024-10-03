@@ -24,3 +24,7 @@ I'm 16 years old and a beginner backend developer in Python.
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
     </a>
 </div>
+
+<img src="https://skillicons.dev/icons?i=python,bash,sqlite,html,css" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,stackoverflow" />
+<img src="https://skillicons.dev/icons?i=qt,django,bootstrap,sass" />
